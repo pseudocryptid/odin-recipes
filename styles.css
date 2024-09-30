@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(157, 61, 198);
+}
+
+a {
+    background-color: rgb(64, 97, 125);
+}
+
+#recipes li {
+    background-color: white;
+}
+
+
+ul li {
+    background-color: rgb(119, 173, 83);
+}
+
+ol li {
+    background-color: aqua;
+}
+
+li {
+    width: 400px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
