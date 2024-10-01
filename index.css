@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main {
+    width: 500px;
+    margin: 10px auto;
+    padding: 15px 15px;
+    background-color: cadetblue;
+    border: 9px solid black;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 35px;
+    border: 5px dotted rgb(218, 246, 255)
+}
+
+.list {
+    list-style-position: inside;
+    background-color: lightblue;
+    border: 4px solid aliceblue;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.list ul {
+    /* background-color: red; */
+    display: block;
+    margin: 10px auto;
+}
